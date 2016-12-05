@@ -1,4 +1,4 @@
-// Source: http://assets.kampyle.com/clients/9067101/d/k_config.js
+// Source: http://assets.kampyle.com/clients/9067101/d/k_config.js (compressed)
 
 window.k_sc_param = {
     version: 1.1
